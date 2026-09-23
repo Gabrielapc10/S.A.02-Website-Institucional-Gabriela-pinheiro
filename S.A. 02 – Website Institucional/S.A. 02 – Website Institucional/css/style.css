@@ -1,0 +1,27 @@
+ body{
+    background-image: url(./img/palco-catedraal);
+ }
+#titulo , #sub-titulo{
+    color: rgb(239, 116, 141);
+    height: 10px;
+    width: 1920px;
+    gap: 0%;
+    padding: 10px;
+}
+.bloco{
+    background-color:rgb(230, 237, 238);
+    margin-bottom: 20px;
+    padding: 20px;
+    border: dashed pink;
+    border-radius: 10px;
+}
+#menu h4{
+    color:darkmagenta;
+}
+
+.sobre h3{
+    /* color: blueviolet; */
+    /* margin:20px; */
+    border: dashed pink;
+}
+
